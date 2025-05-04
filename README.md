@@ -14,7 +14,7 @@ movie-cli is a Bash script for downloading TV series and movies from soaper.tv. 
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kamanati/movie-cli.git
+   git clone https://github.com/hasanfq6/movie-cli.git
    ```
 
 2. Make the script executable:
